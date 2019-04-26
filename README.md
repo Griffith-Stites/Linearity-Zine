@@ -14,3 +14,5 @@ This educational Zine was designed, created, and edited by Alex Hindelang and Gr
 
 ## License
 This project is licensed under the GNU General Public License v3.0-see the [LICENSE](https://github.com/Griffith-Stites/linearity-zine/blob/master/LICENSE).
+
+Feel free to utilize this for educational use in the classroom or otherwise.
