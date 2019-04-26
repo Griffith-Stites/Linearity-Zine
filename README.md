@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# SVD Zine
 
-You can use the [editor on GitHub](https://github.com/Griffith-Stites/linearity_zine/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+An educational zine (mini booklet) explaining basic linearity concepts and the Singular Value Decomposition.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This booklet is aimed at high school students with an algebra understanding. The booklet is meant to give students excitement in regards to math, by showing them the purpose of some of the things they are learning. It is also meant to explain the logic behind the Singular Value Decomposition to help remove the "black box" aspect that is often present when using tools such as MATLAB or other programming tools that rely on the Singular Value Decomposition.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How to Contribute
 
-```markdown
-Syntax highlighted code block
+## Accolades
 
-# Header 1
-## Header 2
-### Header 3
+## Authors
+This educational Zine was designed, created, and edited by Alex Hindelang and Griffith Stites.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Griffith-Stites/linearity_zine/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## License
+This project is licensed under the GNU General Public License v3.0-see the [LICENSE](https://github.com/Griffith-Stites/linearity-zine/blob/master/LICENSE).
