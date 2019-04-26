@@ -7,7 +7,8 @@ This booklet is aimed at high school students with an algebra understanding. The
 See the zine [here](https://docs.google.com/document/d/1f3B-3JfkpM2tV1ZQEj0xgGliBr8aZgAKX4s3_78mlkg/edit?usp=sharing).
 
 ### Files
-See  our proposal draft [here](https://www.griffithstites.com/linearity-zine/proposal_draft)
+See  our proposal draft [here](https://www.griffithstites.com/linearity-zine/proposal_draft).
+
 See our list of resources [here](https://www.griffithstites.com/linearity-zine/resources).
 
 ### Contributing
