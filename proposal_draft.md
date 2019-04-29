@@ -9,4 +9,4 @@ We have to balance the depth of our information with its accessibility. We want 
 We don’t want our zine to look or feel like a math paper or textbook. We want to make sure that students don’t feel discouraged just by looking at it. We want to explore different methods of organizing information to make it more approachable and to inspire further inquiry rather than stifle it. By setting clear learning goals in section headings, beginning with abstractions and images, and moving into specific technical ideas, we hope to bring an understanding of the SVD to more students.
 
 
-[Return to home](https://www.griffithstites.com/linearity-zine/)
+[Return to home](https://www.griffithstites.com/Linearity-Zine/)
