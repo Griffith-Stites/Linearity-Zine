@@ -14,8 +14,9 @@ These zines are aimed at high school students with an algebra understanding. The
 We have example code for implementing the SVD in MATLAB and Python, you can get that
 code by cloning or downloading our Github repository.
 * [Github Repository](https://github.com/Griffith-Stites/Linearity-Zine)
-* [Basics of Linear Algebra needed for SVD](https://docs.google.com/document/d/1navVaTZNK-ppvdtgwaIFQmDgSO_vroboGFzWJHKjndQ/edit?usp=sharing)
-* [SVD Zine](https://docs.google.com/document/d/1f3B-3JfkpM2tV1ZQEj0xgGliBr8aZgAKX4s3_78mlkg/edit?usp=sharing)
+* Google Doc Zine Links
+  * [Basics of Linear Algebra needed for SVD](https://docs.google.com/document/d/1navVaTZNK-ppvdtgwaIFQmDgSO_vroboGFzWJHKjndQ/edit?usp=sharing)
+  * [SVD Zine](https://docs.google.com/document/d/1f3B-3JfkpM2tV1ZQEj0xgGliBr8aZgAKX4s3_78mlkg/edit?usp=sharing)
 * [Project Proposal](https://www.griffithstites.com/Linearity-Zine/proposal).
 * [Resources](https://www.griffithstites.com/Linearity-Zine/resources).
 
