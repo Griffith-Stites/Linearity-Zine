@@ -2,9 +2,9 @@
 
 An pair of educational zines (mini booklet) explaining basic linearity concepts and the Singular Value Decomposition.
 
-See the preliminary zine going over the [Basics of Linear Algebra needed for SVD](https://docs.google.com/document/d/1navVaTZNK-ppvdtgwaIFQmDgSO_vroboGFzWJHKjndQ/edit?usp=sharing).
+[Basics of Linear Algebra needed for SVD](https://docs.google.com/document/d/1navVaTZNK-ppvdtgwaIFQmDgSO_vroboGFzWJHKjndQ/edit?usp=sharing).
 
-See the [SVD Zine](https://docs.google.com/document/d/1f3B-3JfkpM2tV1ZQEj0xgGliBr8aZgAKX4s3_78mlkg/edit?usp=sharing).
+[SVD Zine](https://docs.google.com/document/d/1f3B-3JfkpM2tV1ZQEj0xgGliBr8aZgAKX4s3_78mlkg/edit?usp=sharing).
 
 These zines are aimed at high school students with an algebra understanding. They are meant to help get students excited about math by giving purpose to the things they are learning.
 
