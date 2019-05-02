@@ -2,7 +2,7 @@
 
 We are both engineering students who are passionate about the future of education.
 ### Griffith Stites
-![Photo of Griffith](images/griffith.jpg)
+<img src="./images/griffith.jpg" alt="Picture of Griffith" width="300"/>
 
 I am an Electrical and Computer Engineering major at Olin College of Engineering.
 I get a lot of satisfaction out of explaining complex subjects in simple terms.
@@ -20,7 +20,7 @@ Code and Implementation Examples
   MATLAB and Python
 
 ### Alex Hindelang
-![Photo of Alex](images/alex.jpg)
+<img src="./images/alex.jpg" alt="Picture of Alex" width="300"/>
 
 I am an Engineering with Design major at Olin College of Engineering. I was drawn to this project
 because I wanted to help get high school students excited about what they are
