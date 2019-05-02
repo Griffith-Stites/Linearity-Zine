@@ -12,12 +12,12 @@ I wanted to remove the black box around topics we were not supposed
 to know or were supposed to assumed worked.
 
 Contributions:
-Created the Zine format for this project - fonts, style, etc
-Wrote about the basics of Linear Algebra
-  Matrix Basics, Vectors, Eigenvalues and Eigenvectors.
-Wrote about how SVD works on an image
-Code and Implementation Examples
-  MATLAB and Python
+- Created the Zine format for this project - fonts, style, etc
+- Wrote about the basics of Linear Algebra
+  - Matrix Basics, Vectors, Eigenvalues and Eigenvectors.
+- Wrote about how SVD works on an image
+- Code and Implementation Examples
+  - MATLAB and Python
 
 ### Alex Hindelang
 <img src="./images/alex.jpg" alt="Picture of Alex" width="300"/>
