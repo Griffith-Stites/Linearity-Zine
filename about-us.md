@@ -12,12 +12,18 @@ I wanted to remove the black box around topics we were not supposed
 to know or were supposed to assumed worked.
 
 Contributions:
-- Created the Zine format for this project - fonts, style, etc
-- Wrote about the basics of Linear Algebra
-  - Matrix Basics, Vectors, Eigenvalues and Eigenvectors.
-- Wrote about how SVD works on an image
-- Code and Implementation Examples
-  - MATLAB and Python
+
+&nbsp;&nbsp;&nbsp;Created the Zine format for this project - fonts, style, etc
+
+&nbsp;&nbsp;&nbsp;Wrote about the basics of Linear Algebra
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Matrix Basics, Vectors, Eigenvalues and Eigenvectors.
+
+&nbsp;&nbsp;&nbsp;Wrote about how SVD works on an image
+
+&nbsp;&nbsp;&nbsp;Code and Implementation Examples
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MATLAB and Python
 
 ### Alex Hindelang
 <img src="./images/alex.jpg" alt="Picture of Alex" width="300"/>
@@ -28,11 +34,16 @@ learning - especially in regards to math.
 
 I did well in High School, but I always felt a disconnection from what I was
 learning. I always wanted to see the greater purpose of something I was learning,
-this project gave me the opportunity to do so
+this project gave me the opportunity to do so.
 
 Contributions:
-Wrote about the SVD in detail
-  Mathematical interpretations, data analysis
-Wrote about Symmetric Matrices
-Wrote the project proposals
-Created the educational videos
+
+&nbsp;&nbsp;&nbsp;Wrote about the SVD in detail
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mathematical interpretations, data analysis
+
+&nbsp;&nbsp;&nbsp;Wrote about Symmetric Matrices
+
+&nbsp;&nbsp;&nbsp;Wrote the project proposals
+
+&nbsp;&nbsp;&nbsp;Created the educational videos
