@@ -17,7 +17,7 @@ Contributions:
   * Matrix Basics, Vectors, Eigenvalues and Eigenvectors.
 * Wrote about how SVD works on an image
 * Code and Implementation Examples
-* MatLab, Python, and WolframAlpha examples
+* MATLAB, Python, and WolframAlpha examples
 
 Visit my personal website: [griffithstites.com](https://www.griffithstites.com/)
 
