@@ -5,10 +5,10 @@ An pair of educational zines (mini booklet) explaining basic linearity concepts 
 These zines are aimed at high school students with an algebra understanding. They are meant to help get students excited about math by giving purpose to the things they are learning.
 
 <embed src="https://www.griffithstites.com/Linearity-Zine/images/basics.pdf" type="application/pdf" width="100%" height="600px" />
-[Download](https://www.griffithstites.com/Linearity-Zine/images/basics.pdf)
+[Basics of Linear Algebra needed for SVD Zine](https://www.griffithstites.com/Linearity-Zine/images/basics.pdf)
 
 <embed src="https://www.griffithstites.com/Linearity-Zine/images/svd-zine.pdf" type="application/pdf" width="100%" height="600px" />
-[Download](https://www.griffithstites.com/Linearity-Zine/images/svd-zine.pdf)
+[SVD Zine](https://www.griffithstites.com/Linearity-Zine/images/svd-zine.pdf)
 
 ### Files
 We have example code for implementing the SVD in MATLAB and Python, you can get that
