@@ -2,13 +2,13 @@
 
 An pair of educational zines (mini booklet) explaining basic linearity concepts and the Singular Value Decomposition.
 
+These zines are aimed at high school students with an algebra understanding. They are meant to help get students excited about math by giving purpose to the things they are learning.
+
 <embed src="https://www.griffithstites.com/Linearity-Zine/images/basics.pdf" type="application/pdf" width="100%" height="600px" />
 [Download](https://www.griffithstites.com/Linearity-Zine/images/basics.pdf)
 
 <embed src="https://www.griffithstites.com/Linearity-Zine/images/svd-zine.pdf" type="application/pdf" width="100%" height="600px" />
 [Download](https://www.griffithstites.com/Linearity-Zine/images/svd-zine.pdf)
-
-These zines are aimed at high school students with an algebra understanding. They are meant to help get students excited about math by giving purpose to the things they are learning.
 
 ### Files
 We have example code for implementing the SVD in MATLAB and Python, you can get that
