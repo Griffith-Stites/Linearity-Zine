@@ -13,7 +13,7 @@ We have example code for implementing the SVD in MATLAB and Python, you can get 
 code by [cloning or downloading the repository](https://github.com/Griffith-Stites/Linearity-Zine).
 The code is in the code folder.
 
-See  our [proposal draft](https://www.griffithstites.com/Linearity-Zine/proposal_draft).
+See  our [Project Proposal](https://www.griffithstites.com/Linearity-Zine/proposal).
 
 See our [list of resources](https://www.griffithstites.com/Linearity-Zine/resources).
 
