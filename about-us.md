@@ -12,12 +12,12 @@ I wanted to remove the black box around topics we were not supposed
 to know or were supposed to assumed worked.
 
 Contributions:
-* Created the Zine format for this project - fonts, style, etc
-* Wrote about the basics of Linear Algebra
-  * Matrix Basics, Vectors, Eigenvalues and Eigenvectors.
-* Wrote about how SVD works on an image
-* Code and Implementation Examples
-  * MATLAB and Python
+Created the Zine format for this project - fonts, style, etc
+Wrote about the basics of Linear Algebra
+  Matrix Basics, Vectors, Eigenvalues and Eigenvectors.
+Wrote about how SVD works on an image
+Code and Implementation Examples
+  MATLAB and Python
 
 ### Alex Hindelang
 ![Photo of Alex](images/alex.jpg)
@@ -31,8 +31,8 @@ learning. I always wanted to see the greater purpose of something I was learning
 this project gave me the opportunity to do so
 
 Contributions:
-* Wrote about the SVD in detail
-  * Mathematical interpretations, data analysis
-* Wrote about Symmetric Matrices
-* Wrote the project proposals
-* Created the educational videos
+Wrote about the SVD in detail
+  Mathematical interpretations, data analysis
+Wrote about Symmetric Matrices
+Wrote the project proposals
+Created the educational videos
