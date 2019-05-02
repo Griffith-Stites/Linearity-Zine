@@ -9,8 +9,8 @@ An pair of educational zines (mini booklet) explaining basic linearity concepts 
 These zines are aimed at high school students with an algebra understanding. They are meant to help get students excited about math by giving purpose to the things they are learning.
 
 ### Files
-We have example code for implementing the SVD in MATLAB and Python, [you can get that
-code by cloning or downloading the repository](https://github.com/Griffith-Stites/Linearity-Zine).
+We have example code for implementing the SVD in MATLAB and Python, you can get that
+code by [cloning or downloading the repository](https://github.com/Griffith-Stites/Linearity-Zine).
 The code is in the code folder.
 
 See  our [proposal draft](https://www.griffithstites.com/Linearity-Zine/proposal_draft).
