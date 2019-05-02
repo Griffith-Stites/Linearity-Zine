@@ -17,8 +17,8 @@ code by cloning or downloading our Github repository.
 * Google Doc Zine Links
   * [Basics of Linear Algebra needed for SVD](https://docs.google.com/document/d/1navVaTZNK-ppvdtgwaIFQmDgSO_vroboGFzWJHKjndQ/edit?usp=sharing)
   * [SVD Zine](https://docs.google.com/document/d/1f3B-3JfkpM2tV1ZQEj0xgGliBr8aZgAKX4s3_78mlkg/edit?usp=sharing)
-* [Project Proposal](https://www.griffithstites.com/Linearity-Zine/proposal).
-* [Resources](https://www.griffithstites.com/Linearity-Zine/resources).
+* [Project Proposal](https://www.griffithstites.com/Linearity-Zine/proposal)
+* [Resources](https://www.griffithstites.com/Linearity-Zine/resources)
 
 ### Contributing
 If you have any ideas, feel free to reach out to gjstites@gmail.com with any of your feedback. You can also modify the zine for your own use as long as you accredit Griffith Stites and Alex Hindelang for creation of the original zine.
