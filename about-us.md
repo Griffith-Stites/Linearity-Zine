@@ -13,17 +13,19 @@ to know or were supposed to assumed worked.
 
 Contributions:
 
-&nbsp;&nbsp;&nbsp;Created the Zine format for this project - fonts, style, etc
+&nbsp;Created the Zine format for this project - fonts, style, etc
 
-&nbsp;&nbsp;&nbsp;Wrote about the basics of Linear Algebra
+&nbsp;Wrote about the basics of Linear Algebra
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Matrix Basics, Vectors, Eigenvalues and Eigenvectors.
+&nbsp;&nbsp;&nbsp;&nbsp;Matrix Basics, Vectors, Eigenvalues and Eigenvectors.
 
-&nbsp;&nbsp;&nbsp;Wrote about how SVD works on an image
+&nbsp;Wrote about how SVD works on an image
 
-&nbsp;&nbsp;&nbsp;Code and Implementation Examples
+&nbsp;Code and Implementation Examples
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MATLAB and Python
+
+Visit my personal website: [griffithstites.com](https://www.griffithstites.com/)
 
 ### Alex Hindelang
 <img src="./images/alex.jpg" alt="Picture of Alex" width="300"/>
@@ -38,12 +40,12 @@ this project gave me the opportunity to do so.
 
 Contributions:
 
-&nbsp;&nbsp;&nbsp;Wrote about the SVD in detail
+&nbsp;Wrote about the SVD in detail
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mathematical interpretations, data analysis
 
-&nbsp;&nbsp;&nbsp;Wrote about Symmetric Matrices
+&nbsp;Wrote about Symmetric Matrices
 
-&nbsp;&nbsp;&nbsp;Wrote the project proposals
+&nbsp;Wrote the project proposals
 
-&nbsp;&nbsp;&nbsp;Created the educational videos
+&nbsp;Created the educational videos
