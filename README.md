@@ -2,11 +2,11 @@
 
 An pair of educational zines (mini booklet) explaining basic linearity concepts and the Singular Value Decomposition.
 
-[Basics of Linear Algebra needed for SVD](https://docs.google.com/document/d/1navVaTZNK-ppvdtgwaIFQmDgSO_vroboGFzWJHKjndQ/edit?usp=sharing)
 <embed src="https://www.griffithstites.com/Linearity-Zine/images/basics.pdf" type="application/pdf" width="100%" height="600px" />
+[Download](https://www.griffithstites.com/Linearity-Zine/images/basics.pdf)
 
-[SVD Zine](https://docs.google.com/document/d/1f3B-3JfkpM2tV1ZQEj0xgGliBr8aZgAKX4s3_78mlkg/edit?usp=sharing)
 <embed src="https://www.griffithstites.com/Linearity-Zine/images/svd-zine.pdf" type="application/pdf" width="100%" height="600px" />
+[Download](https://www.griffithstites.com/Linearity-Zine/images/svd-zine.pdf)
 
 These zines are aimed at high school students with an algebra understanding. They are meant to help get students excited about math by giving purpose to the things they are learning.
 
@@ -14,6 +14,12 @@ These zines are aimed at high school students with an algebra understanding. The
 We have example code for implementing the SVD in MATLAB and Python, you can get that
 code by [cloning or downloading the repository](https://github.com/Griffith-Stites/Linearity-Zine).
 The code is in the code folder.
+
+See the google docs versions of our zines:
+
+[Basics of Linear Algebra needed for SVD](https://docs.google.com/document/d/1navVaTZNK-ppvdtgwaIFQmDgSO_vroboGFzWJHKjndQ/edit?usp=sharing)
+
+[SVD Zine](https://docs.google.com/document/d/1f3B-3JfkpM2tV1ZQEj0xgGliBr8aZgAKX4s3_78mlkg/edit?usp=sharing)
 
 See  our [Project Proposal](https://www.griffithstites.com/Linearity-Zine/proposal).
 
