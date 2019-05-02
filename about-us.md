@@ -22,7 +22,7 @@ Contributions:
 ### Alex Hindelang
 ![Photo of Alex](images/alex.jpg)
 
-I am an Engineering with Design major at Olin. I was drawn to this project
+I am an Engineering with Design major at Olin College of Engineering. I was drawn to this project
 because I wanted to help get high school students excited about what they are
 learning - especially in regards to math.
 
