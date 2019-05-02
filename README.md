@@ -12,18 +12,12 @@ These zines are aimed at high school students with an algebra understanding. The
 
 ### Files
 We have example code for implementing the SVD in MATLAB and Python, you can get that
-code by [cloning or downloading the repository](https://github.com/Griffith-Stites/Linearity-Zine).
-The code is in the code folder.
-
-See the google docs versions of our zines:
-
-[Basics of Linear Algebra needed for SVD](https://docs.google.com/document/d/1navVaTZNK-ppvdtgwaIFQmDgSO_vroboGFzWJHKjndQ/edit?usp=sharing)
-
-[SVD Zine](https://docs.google.com/document/d/1f3B-3JfkpM2tV1ZQEj0xgGliBr8aZgAKX4s3_78mlkg/edit?usp=sharing)
-
-See  our [Project Proposal](https://www.griffithstites.com/Linearity-Zine/proposal).
-
-See our [List of Resources](https://www.griffithstites.com/Linearity-Zine/resources).
+code by cloning or downloading our Github repository.
+* [Github Repository](https://github.com/Griffith-Stites/Linearity-Zine)
+* [Basics of Linear Algebra needed for SVD](https://docs.google.com/document/d/1navVaTZNK-ppvdtgwaIFQmDgSO_vroboGFzWJHKjndQ/edit?usp=sharing)
+* [SVD Zine](https://docs.google.com/document/d/1f3B-3JfkpM2tV1ZQEj0xgGliBr8aZgAKX4s3_78mlkg/edit?usp=sharing)
+* [Project Proposal](https://www.griffithstites.com/Linearity-Zine/proposal).
+* [Resources](https://www.griffithstites.com/Linearity-Zine/resources).
 
 ### Contributing
 If you have any ideas, feel free to reach out to gjstites@gmail.com with any of your feedback. You can also modify the zine for your own use as long as you accredit Griffith Stites and Alex Hindelang for creation of the original zine.
