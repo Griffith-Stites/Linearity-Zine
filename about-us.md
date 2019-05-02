@@ -38,3 +38,5 @@ Contributions:
 * Wrote about Symmetric Matrices
 * Wrote the project proposals
 * Created the educational videos
+
+[Return to Home](https://www.griffithstites.com/Linearity-Zine/)
