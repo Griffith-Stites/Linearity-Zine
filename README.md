@@ -15,7 +15,7 @@ The code is in the code folder.
 
 See  our [Project Proposal](https://www.griffithstites.com/Linearity-Zine/proposal).
 
-See our [list of resources](https://www.griffithstites.com/Linearity-Zine/resources).
+See our [List of Resources](https://www.griffithstites.com/Linearity-Zine/resources).
 
 ### Contributing
 If you have any ideas, feel free to reach out to gjstites@gmail.com with any of your feedback. You can also modify the zine for your own use as long as you accredit Griffith Stites and Alex Hindelang for creation of the original zine.
