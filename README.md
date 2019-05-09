@@ -4,6 +4,8 @@ An pair of educational zines (mini booklet) explaining basic linearity concepts 
 
 These zines are aimed at high school students with an algebra understanding. They are meant to help get students excited about math by giving purpose to the things they are learning.
 
+[![Video](images/thumbnail.png)](https://youtu.be/hqhkb70QdTo)
+
 <embed src="https://www.griffithstites.com/Linearity-Zine/images/basics.pdf" type="application/pdf" width="100%" height="600px" />
 [Basics of Linear Algebra needed for SVD Zine](https://www.griffithstites.com/Linearity-Zine/images/basics.pdf)
 
