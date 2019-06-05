@@ -21,7 +21,7 @@ Contributions:
 
 Visit my personal website: [griffithstites.com](https://www.griffithstites.com/)
 
-### Alex Hindelang
+### Alex Luna
 <img src="./images/alex.jpg" alt="Picture of Alex" width="300"/>
 
 I am an Engineering with Design major at Olin College of Engineering. I was drawn to this project
