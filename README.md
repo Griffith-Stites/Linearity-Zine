@@ -1,5 +1,7 @@
 # SVD Zine
 
+[![Video](images/thumbnail.png)](https://youtu.be/hqhkb70QdTo)
+
 An pair of educational zines (mini booklet) explaining basic linearity concepts and the Singular Value Decomposition.
 
 These zines are aimed at high school students with an algebra understanding. They are meant to help get students excited about math by giving purpose to the things they are learning.
