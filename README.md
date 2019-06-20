@@ -9,6 +9,7 @@
   gtag('config', 'UA-106734336-2');
 </script>
 </head>
+
 # SVD Zine
 
 [![Video](images/thumbnail.png)](https://youtu.be/hqhkb70QdTo)
