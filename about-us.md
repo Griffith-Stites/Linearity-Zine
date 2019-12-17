@@ -1,8 +1,8 @@
 # About Us
 
 We are both engineering students who are passionate about the future of education.
-### Griffith Stites
-<img src="./images/griffith.jpg" alt="Picture of Griffith" width="300"/>
+### Maeve Stites
+<img src="./images/maeve.jpg" alt="Picture of Maeve" width="300"/>
 
 I am an Electrical and Computer Engineering major at Olin College of Engineering.
 I get a lot of satisfaction out of explaining complex subjects in simple terms.
@@ -19,7 +19,7 @@ Contributions:
 * Code and Implementation Examples
 * MATLAB, Python, and WolframAlpha examples
 
-Visit my personal website: [griffithstites.com](https://www.griffithstites.com/)
+Visit my personal website: [mstites.com](https://www.mstites.com/)
 
 ### Alex Luna
 <img src="./images/alex.jpg" alt="Picture of Alex" width="300"/>
@@ -39,4 +39,4 @@ Contributions:
 * Wrote the project proposals
 * Created the educational videos
 
-[Return to Home](https://www.griffithstites.com/Linearity-Zine/)
+[Return to Home](https://www.mstites.com/Linearity-Zine/)

@@ -12,4 +12,4 @@ A list of the resources we referenced during the creation of this project.
 * [Daniel Connolly and Cassandra Overney on PCA](https://www.youtube.com/watch?v=jPo0EyiS3Fs)
 * [NumPy Linear Algebra Documentation](https://docs.scipy.org/doc/)
 
-[Return to home](https://www.griffithstites.com/Linearity-Zine/)
+[Return to home](https://www.mstites.com/Linearity-Zine/)
