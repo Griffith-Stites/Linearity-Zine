@@ -2,7 +2,7 @@
 
 We are both engineering students who are passionate about the future of education.
 ### Maeve Stites
-<img src="./images/maeve.jpg" alt="Picture of Maeve" width="300"/>
+<img src="./images/maeve.png" alt="Picture of Maeve" width="300"/>
 
 I am an Electrical and Computer Engineering major at Olin College of Engineering.
 I get a lot of satisfaction out of explaining complex subjects in simple terms.

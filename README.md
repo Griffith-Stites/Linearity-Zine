@@ -23,10 +23,10 @@ code by cloning or downloading our Github repository.
 * [Resources](https://www.mstites.com/Linearity-Zine/resources)
 
 ### Contributing
-If you have any ideas, feel free to reach out to gjstites@gmail.com with any of your feedback. You can also modify the zine for your own use as long as you accredit Griffith Stites and Alex Luna for creation of the original zine.
+If you have any ideas, feel free to reach out to maevestites@gmail.com with any of your feedback. You can also modify the zine for your own use as long as you accredit Maeve Stites and Alex Luna for creation of the original zine.
 
 ### Authors
-This educational Zine was designed, created, and edited by Alex Luna and Griffith Stites.
+This educational Zine was designed, created, and edited by Alex Luna and Maeve Stites.
 See more [about us](https://www.mstites.com/Linearity-Zine/about-us).
 
 
